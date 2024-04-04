@@ -2,3 +2,4 @@ exclude:
   - main.html
   - assets/
   - embed.py
+theme: minima
