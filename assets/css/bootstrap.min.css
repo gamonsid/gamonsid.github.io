@@ -7,7 +7,8 @@
 /*# sourceMappingURL=bootstrap.min.css.map */
 
 .left{
-  position: relative;
-  left: 1px;
+  position: absolute;
+  left: 0px;
+  top: 800px;
   
 }
